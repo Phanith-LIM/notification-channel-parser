@@ -1,0 +1,14 @@
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/bin/Debug/net8.0/notification-channel-parser
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/bin/Debug/net8.0/notification-channel-parser.deps.json
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/bin/Debug/net8.0/notification-channel-parser.runtimeconfig.json
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/bin/Debug/net8.0/notification-channel-parser.dll
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/bin/Debug/net8.0/notification-channel-parser.pdb
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/obj/Debug/net8.0/notification-channel-parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/obj/Debug/net8.0/notification-channel-parser.AssemblyInfoInputs.cache
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/obj/Debug/net8.0/notification-channel-parser.AssemblyInfo.cs
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/obj/Debug/net8.0/notification-channel-parser.csproj.CoreCompileInputs.cache
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/obj/Debug/net8.0/notification-channel-parser.dll
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/obj/Debug/net8.0/refint/notification-channel-parser.dll
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/obj/Debug/net8.0/notification-channel-parser.pdb
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/obj/Debug/net8.0/notification-channel-parser.genruntimeconfig.cache
+/Users/limphanith/Documents/08.Programming/C#/notification-channel-parser/notification-channel-parser/obj/Debug/net8.0/ref/notification-channel-parser.dll

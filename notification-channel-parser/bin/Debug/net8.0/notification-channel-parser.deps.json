@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "notification-channel-parser/1.0.0": {
+        "runtime": {
+          "notification-channel-parser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "notification-channel-parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
