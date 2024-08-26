@@ -6,7 +6,7 @@ namespace notification_channel_parser
     {
         private static void Main()
         {
-            const string input = "[HAHA][BE][QA] there is error";
+            const string input = "[QA][HAHA][BE] there is error";
             
             // Define pattern and validChannel
             List<string> validChannels = ["BE", "FE", "Urgent", "QA"];
@@ -32,7 +32,7 @@ namespace notification_channel_parser
                     matchesList.Add(value);
                 }
             }
-            return matchesList;
+            return matchesList.OrderBy(channel => channel).ToList();
         }
     }
 }
